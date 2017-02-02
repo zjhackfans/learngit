@@ -14,4 +14,4 @@ if guess==secret:
     print("输入正确")
 else:
     print("你已经输错3次啦~")
-print ("游戏结束")
+print ("游戏结束！")
